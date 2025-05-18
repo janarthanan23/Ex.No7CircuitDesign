@@ -1,5 +1,5 @@
 # Ex.No: 7  Logic Programming –  Logic Circuit Design
-### NAME : 212222040058                                                                     
+### NAME : JANARTHANAN S                                                                 
 ### REGISTER NUMBER :212222040058
 ### AIM: 
 To write a logic program to design a circuit like half adder and half subtractor.
